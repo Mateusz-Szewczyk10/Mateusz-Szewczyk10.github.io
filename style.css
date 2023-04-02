@@ -50,7 +50,7 @@ html, body {
   
   /* || header layout */
   
-  nav, article, aside, footer {
+  nav, article, aside {
     background-color: white;
     padding: 1%;
   }
@@ -129,7 +129,6 @@ html, body {
   }
   
   footer {
-    margin-top: 10px;
     position: fixed;
     left: 0;
     bottom:0;
